@@ -1,4 +1,3 @@
-setwd("F:/blazar/papers/carbon inequality/20230221/data")
 library(gsynth)
 library(haven)
 library(tidyverse)
